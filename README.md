@@ -16,6 +16,16 @@ Ini adalah tools bukti pembayaran Travel Agent menggunakan bahasa C++
   * Version : V.0.1 --> Using nested if
   
 # How To Use
+Biaya akomodasi diisi dengan nilai ppn yang sudah tertera dibawah ini :
+- JG --> F = PPN 5%
+- JG --> C = PPN 10%
+- MN --> F = PPN 15%
+- MN --> C = PPN 5%
+- BT --> F = PPN 10%
+- BT --> C = PPN 5%
+
+                                    CUKUP TULISKAN ANGKA TANPA " % "
+
 ## Linux :
 1. Open with terminal
   * sudo apt-get update
@@ -31,7 +41,7 @@ Ini adalah tools bukti pembayaran Travel Agent menggunakan bahasa C++
   * CodeBlocks
   * Dev
   * Dll
-
+  
 ## Windows :
 1. Open with IDE Compiler
   * CodeBlocks
